@@ -78,7 +78,7 @@ Support attaching receipts or other relevant documents to expense entries.
 Clone the project
 
 ```bash
-  git clone https://github.com/Priyanshu9898/Expense-Tracker-App
+  [git clone https://github.com/Priyanshu9898/Expense-Tracker-App](https://github.com/varnika1221/Personal-Finance-Manager-with-MERN-Technology-P4-)
 ```
 
 Go to the project directory
